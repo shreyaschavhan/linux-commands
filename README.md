@@ -27,3 +27,6 @@
 > ```
 
 ---
+
+* Remove duplicate lines from a file
+> ```awk '!seen[$0]++' filename``` 
