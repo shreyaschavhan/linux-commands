@@ -36,5 +36,5 @@
 
 - Dalfox:
 ```
-dalfox file brute.txt --output-all dalfox.txt --only-discovery --skip-bav --skip-mining-all -w 500
+dalfox file brute.txt --output-all dalfox.txt --only-discovery --skip-bav --skip-mining-all -w 500 --report
 ```
